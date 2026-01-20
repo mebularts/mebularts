@@ -1,8 +1,4 @@
-<!-- =========================
-     mebularts — GitHub Profile README
-     ========================= -->
-
-<div align="center">
+<img width="1747" height="866" alt="image" src="https://github.com/user-attachments/assets/b257b6fb-9176-4f31-b088-de99726c046f" /><div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=900&center=true&vCenter=true&width=900&lines=Mebularts+%E2%80%94+Automation+%26+Open-Source+Tooling;Telegram+Content+Ops+%7C+PHP+Composer+Libraries+%7C+Python+Automation;Build+fast.+Ship+clean.+Keep+it+reusable." alt="Typing SVG" />
 
@@ -108,12 +104,42 @@ Deneysel ve eğlence amaçlı küçük bir proje.
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-8%2B-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-Packages-885630?style=flat&logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-APIs-111?style=flat" />
-  <img src="https://img.shields.io/badge/MySQL-Data-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-0b0b0b?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-0b0b0b?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0b0b0b?style=flat" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Database-0b0b0b?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Desktop%20%26%20Automation-0b0b0b?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-0b0b0b?style=flat" />
+  <img src="https://img.shields.io/badge/Automation-0b0b0b?style=flat" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Product%20Domains-0b0b0b?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--Commerce-0b0b0b?style=flat" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat&logo=meta&logoColor=white" />
 </p>
 
 ---
