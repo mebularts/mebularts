@@ -1,4 +1,4 @@
-<img width="1747" height="866" alt="image" src="https://github.com/user-attachments/assets/b257b6fb-9176-4f31-b088-de99726c046f" /><div align="center">
+<div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=900&center=true&vCenter=true&width=900&lines=Mebularts+%E2%80%94+Automation+%26+Open-Source+Tooling;Telegram+Content+Ops+%7C+PHP+Composer+Libraries+%7C+Python+Automation;Build+fast.+Ship+clean.+Keep+it+reusable." alt="Typing SVG" />
 
