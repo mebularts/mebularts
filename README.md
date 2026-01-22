@@ -21,7 +21,7 @@
     <a href="https://www.mebularts.com.tr"><img src="https://img.shields.io/badge/Website-mebularts.com.tr-black?style=flat&logo=google-chrome&logoColor=white" /></a>
     <a href="https://ko-fi.com/mebularts"><img src="https://img.shields.io/badge/Ko--fi-Support%20me-ff5e5b?style=flat&logo=kofi&logoColor=white" /></a>
     <a href="https://paypal.me/mebularts"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white" /></a>
-    <a href="https://app.dataimpulse.com/affiliate"><img src="https://img.shields.io/badge/Proxy%20Affiliate-DataImpulse-111?style=flat&logo=internet-explorer&logoColor=white" /></a>
+    <a href="https://dataimpulse.com/?aff=48564"><img src="https://img.shields.io/badge/Proxy%20Affiliate-DataImpulse-111?style=flat&logo=internet-explorer&logoColor=white" /></a>
   </p>
 
 </div>
@@ -177,7 +177,7 @@ Hızlı star linkleri:
 
 ### 2) Proxy affiliate ile destek
 Ücretsiz paylaştığım projelerde kullanacağınız proxy’leri affiliate linkim üzerinden alarak destek olabilirsiniz:
-- https://app.dataimpulse.com/affiliate
+- https://dataimpulse.com/?aff=48564
 
 ### 3) Ko-Fi / PayPal
 - Ko-Fi: https://ko-fi.com/mebularts
