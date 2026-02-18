@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://github.com/mebularts">
-      <img src="https://komarev.com/ghpvc/?username=mebularts&style=flat&label=Profile%20Views" alt="profile views" />
+      <img src="https://komarev.com/ghpvc/?username=mebularts&style=flat&label=Daily%20Profile%20Views" alt="profile views" />
     </a>
     <a href="https://github.com/mebularts?tab=followers">
       <img src="https://img.shields.io/github/followers/mebularts?label=Followers&style=flat" alt="followers" />
